@@ -11,7 +11,6 @@ A simple Python chatbot that can:
 Run Ava 🚀
 
 git clone https://github.com/mansi24-mor/Ava-Study-ChatBot.git
-
 python chatbot.py
 
 💬 Example:
@@ -24,4 +23,4 @@ Ava: Which keyword is used for conditions in Python?
 You: if  
 Ava: Correct answer! Very good!
 
-Made with 💖 by Mansi Mor
+Made by Mansi Mor
