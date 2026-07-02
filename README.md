@@ -1,2 +1,25 @@
-# Ava-Study-ChatBot
-A simple rule-based study chatbot built with Python
+# 🤖 Ava - Your Study Buddy ✨
+
+Hey! Meet Ava 💖
+A simple Python chatbot that can:
+✨ Chat with you  
+✨ Motivate you  
+✨ Remember your name  
+✨ Tell current time  
+✨ Take mini quizzes  
+
+Run Ava 🚀
+git clone https://github.com/mansi24-mor/Ava-Study-ChatBot.git
+python chatbot.py
+
+💬 Example:
+You: hello  
+Ava: Hi! Welcome! How can I help you?
+
+You: quiz  
+Ava: Which keyword is used for conditions in Python?
+
+You: if  
+Ava: Correct answer! Very good!
+
+Made with 💖 by Mansi Mor
