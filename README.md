@@ -9,7 +9,9 @@ A simple Python chatbot that can:
 ✨ Take mini quizzes  
 
 Run Ava 🚀
+
 git clone https://github.com/mansi24-mor/Ava-Study-ChatBot.git
+
 python chatbot.py
 
 💬 Example:
