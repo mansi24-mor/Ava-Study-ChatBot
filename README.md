@@ -12,7 +12,7 @@ Run Ava 🚀
 
 git clone https://github.com/mansi24-mor/Ava-Study-ChatBot.git
 
-python chatbot.py
+python Ava.py
 
 💬 Example:
 You: hello  
